@@ -1,0 +1,4 @@
+1. Create 3 empty pointers for numbers
+2. Take 3 numbers from user
+3. Make pointers point to user input
+4. Print out address and value for each pointer
